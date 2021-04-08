@@ -18,6 +18,17 @@ a:hover {
     cursor: pointer;
 }
 
+*:focus, 
+.btn-atomic-tangerine:focus {
+    border: solid #ff3300;
+}
+
+input:focus,
+textarea:focus {
+    outline: solid #ff3300;
+}
+
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -458,6 +469,7 @@ nav .caret {
 .btn-d:focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
+
 }
 
 button {
