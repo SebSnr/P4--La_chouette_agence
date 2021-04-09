@@ -19,7 +19,7 @@ a:hover, a:focus {
 }
 
 header a:focus {
-border-bottom: solid 2px #920C0C;   
+border-bottom: solid 2px #F3976C;   
 }
 
 #page-loading-blocs-notifaction {
@@ -138,7 +138,7 @@ border-bottom: solid 2px #920C0C;
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    /* color: rgba(255, 255, 255, .6); */
 }
 
 .d-bloc .a-btn:hover,
@@ -821,7 +821,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #920C0C;
+    background-color: #F3976C;
 }
 
 .tc-white {
@@ -829,12 +829,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #920C0C;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: #575757!important;
 }
 
 .btn-atomic-tangerine:hover, .btn-atomic-tangerine:focus {
-    background:#750505!important;
+    background:#c27956!important;
     color: #FFFFFF!important;
 }
 
@@ -848,11 +848,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #750505!important;
+    color: #c27956!important;
 }
 
 .ltc-atomic-tangerine:hover, .ltc-atomic-tangerine:focus {
-    color: #750505!important;
+    color: #c27956!important;
 }
 
 .icon-dark-slate-blue {
