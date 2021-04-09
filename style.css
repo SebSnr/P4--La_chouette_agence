@@ -16,7 +16,10 @@ button {
 a:hover, a:focus {
     text-decoration: none;
     cursor: pointer;
-    /* border-bottom: solid 1px #750505;    */
+}
+
+header a:focus {
+border-bottom: solid 2px #920C0C;   
 }
 
 #page-loading-blocs-notifaction {
