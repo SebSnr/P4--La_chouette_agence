@@ -19,7 +19,7 @@ a:hover, a:focus {
 }
 
 header a:focus {
-border-bottom: solid 2px #F3976C;   
+border-bottom: solid 2px #F3976C;    
 }
 
 #page-loading-blocs-notifaction {
@@ -701,7 +701,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #212121!important;
 }
 
 .container {
@@ -830,7 +830,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #575757!important;
+    color: #212121!important;
 }
 
 .btn-atomic-tangerine:hover, .btn-atomic-tangerine:focus {
