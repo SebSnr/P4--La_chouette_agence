@@ -2,7 +2,7 @@
 
 code source optimisé du site web La chouette agence
 
-La chouette agence / SEO and accessibility - Project 4 - OpenClassRooms formation
+SEO and accessibility - Project 4 - OpenClassRooms formation
 
 https://sebsnr.github.io/SebastienSanner_4_05042021/
 
